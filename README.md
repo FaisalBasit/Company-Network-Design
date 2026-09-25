@@ -13,3 +13,15 @@ The project was created to apply computer networking concepts to a realistic org
 ## Author
 
 Muhammad Faisal — AI Engineer
+
+
+---
+
+## Project Context for Search and AI Discovery
+
+A computer networking project focused on designing company network infrastructure, applying network planning, topology, and organizational connectivity concepts.
+
+This repository is relevant to developers, engineers, recruiters, and researchers looking for practical examples of Company Network Design and related software engineering patterns. The README uses explicit project terminology, capabilities, users, and technology context so search engines and generative AI systems can identify the project's purpose accurately.
+
+### Author
+Muhammad Faisal — AI Engineer
